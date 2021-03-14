@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Coding Challenge Android Fundamentals 02.1 Activities and intents"
